@@ -203,6 +203,14 @@ export const resources: Resource[] = [
         name: 'Refinder AI',
         description:
             'Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.',
+        categories: ['Design', 'Library'],
+        url: 'https://www.relebook.com/',
+        keywords: ['3D Models Download', '3D Design', 'free textures'],
+    },
+        {
+        name: 'Relebook',
+        description:
+            'Relebook offers a vast collection of high-quality textures and 3D models for free download, covering various types such as architecture, nature, characters, and scenes, suitable for game design, animation production, and 3D modeling.',
         categories: ['AI', 'Productivity'],
         url: 'https://refinder.ai/',
         keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
